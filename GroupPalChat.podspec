@@ -7,7 +7,7 @@ spec.authors       = { 'Aravindhan' => 'aravindhan.n@grouppal.in' }
 spec.summary       = 'Chat SDK of GroupPal'
 spec.source        = { :git => 'https://gitlab.com/Aravindhan132/databinder', :tag => spec.version }
 
-spec.ios.deployment_target  = '12.0'
+spec.ios.deployment_target  = '11.0'
 spec.swift_version = '5'
 
 spec.source_files   = 'native/GroupPalChat/**/*.{swift,h,m}'
